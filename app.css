@@ -1,3 +1,13 @@
-.nav-link:hover {
-    border-bottom: 4px solid #000000;
+.nav-link:visited,
+.nav-link:link {
+  border-bottom: 2px solid transparent;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  border-bottom: 2px solid #0096c7;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
 }
