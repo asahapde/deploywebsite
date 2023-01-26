@@ -18,6 +18,17 @@ body {
   font-size: 80px;
 }
 
+.fa:hover {
+  opacity: 0.9;
+}
+
+.fa {
+  color: white;
+  font-size: 40px;
+  text-decoration: none;
+  margin: 5px;
+}
+
 /* Circle */
 .nav-link {
   position: relative;
